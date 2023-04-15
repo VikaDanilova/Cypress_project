@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuites name="Mocha Tests" time="0.018" tests="0" failures="0">
+  <testsuite name="Root Suite" timestamp="2023-04-14T00:13:40" tests="0" file="cypress/specs/regression/spec.cy.js" time="0.011" failures="0">
+    <testcase name=" " time="0.007" classname="">
+    </testcase>
+  </testsuite>
+</testsuites>
